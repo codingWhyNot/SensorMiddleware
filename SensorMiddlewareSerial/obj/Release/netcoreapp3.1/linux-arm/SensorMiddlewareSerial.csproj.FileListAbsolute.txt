@@ -1,0 +1,14 @@
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\bin\Release\netcoreapp3.1\linux-arm\SensorMiddlewareSerial
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\bin\Release\netcoreapp3.1\linux-arm\SensorMiddlewareSerial.deps.json
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\bin\Release\netcoreapp3.1\linux-arm\SensorMiddlewareSerial.runtimeconfig.json
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\bin\Release\netcoreapp3.1\linux-arm\SensorMiddlewareSerial.runtimeconfig.dev.json
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\bin\Release\netcoreapp3.1\linux-arm\SensorMiddlewareSerial.dll
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\bin\Release\netcoreapp3.1\linux-arm\SensorMiddlewareSerial.pdb
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\bin\Release\netcoreapp3.1\linux-arm\System.IO.Ports.dll
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\bin\Release\netcoreapp3.1\linux-arm\System.IO.Ports.Native.so
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\obj\Release\netcoreapp3.1\linux-arm\SensorMiddlewareSerial.AssemblyInfoInputs.cache
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\obj\Release\netcoreapp3.1\linux-arm\SensorMiddlewareSerial.AssemblyInfo.cs
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\obj\Release\netcoreapp3.1\linux-arm\SensorMiddlewareSerial.csproj.CopyComplete
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\obj\Release\netcoreapp3.1\linux-arm\SensorMiddlewareSerial.dll
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\obj\Release\netcoreapp3.1\linux-arm\SensorMiddlewareSerial.pdb
+D:\repos\SensorMiddlewareSerial\SensorMiddlewareSerial\bin\Release\netcoreapp3.1\linux-arm\ReadUsb.py
